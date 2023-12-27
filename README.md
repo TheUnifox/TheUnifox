@@ -20,3 +20,4 @@ Feel free to ask me about my con! I'm hoping to grow it to be more popular withi
 You can contact me at the below:
  - Email at: unifox@thenergeticon.com
  - [Bluesky](https://bsky.app/profile/unifox.thenergeticon.com)
+ - [Telegram](https://t.me/TheUnifox)
