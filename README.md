@@ -18,5 +18,5 @@ I am also decently experienced with Unity development, including for VR developm
 Feel free to ask me about my con! I'm hoping to grow it to be more popular within the next couple years. \
  \
 You can contact me at the below:
- - [Email](unifox@thenergeticon.com)
+ - [Email](mailto:unifox@thenergeticon.com)
  - [Bluesky](https://bsky.app/profile/unifox.thenergeticon.com)
