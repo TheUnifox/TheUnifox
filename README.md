@@ -3,7 +3,9 @@
 I'm a small furry convention host, and future game dev! \
 18 | Male | He/Him | Gay | Taken :3 | Discord: theunifox \
 The Energetic Convention: April 12 - 14! | Free to attend! | Owned by: Me :3 \
- \
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/n3rk.svg)](https://uptime.betterstack.com/?utm_source=status_badge) 
+
+
 You can check out my con at any of below!
  - [Con GitHub](https://github.com/The-Energetic-Convention)
  - [Con Site](https://thenergeticon.com)
